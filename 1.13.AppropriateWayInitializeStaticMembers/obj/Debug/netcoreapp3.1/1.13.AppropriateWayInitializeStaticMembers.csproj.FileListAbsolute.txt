@@ -1,0 +1,12 @@
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\bin\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.exe
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\bin\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.deps.json
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\bin\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.runtimeconfig.json
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\bin\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.runtimeconfig.dev.json
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\bin\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\bin\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\obj\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.AssemblyInfoInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\obj\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.AssemblyInfo.cs
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\obj\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.csproj.CoreCompileInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\obj\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\obj\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.13.AppropriateWayInitializeStaticMembers\obj\Debug\netcoreapp3.1\1.13.AppropriateWayInitializeStaticMembers.genruntimeconfig.cache

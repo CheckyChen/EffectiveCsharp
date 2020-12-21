@@ -1,0 +1,13 @@
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\bin\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.exe
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\bin\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.deps.json
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\bin\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.runtimeconfig.json
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\bin\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.runtimeconfig.dev.json
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\bin\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\bin\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\obj\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.csprojAssemblyReference.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\obj\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.AssemblyInfoInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\obj\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.AssemblyInfo.cs
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\obj\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.csproj.CoreCompileInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\obj\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\obj\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.03.UseIsBeforeAsOrConvertForce\obj\Debug\netcoreapp3.1\1.03.UseIsBeforeAsOrConvertForce.genruntimeconfig.cache

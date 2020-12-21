@@ -1,0 +1,12 @@
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\bin\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.exe
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\bin\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.deps.json
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\bin\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.runtimeconfig.json
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\bin\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.runtimeconfig.dev.json
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\bin\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\bin\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\obj\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.AssemblyInfoInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\obj\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.AssemblyInfo.cs
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\obj\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.csproj.CoreCompileInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\obj\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\obj\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.04.UseConditionalAttributeReplaceSharpIf\obj\Release\netcoreapp3.1\1.04.UseConditionalAttributeReplaceSharpIf.genruntimeconfig.cache

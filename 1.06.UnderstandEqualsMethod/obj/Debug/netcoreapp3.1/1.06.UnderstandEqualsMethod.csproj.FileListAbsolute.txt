@@ -1,0 +1,12 @@
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\obj\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.AssemblyInfoInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\obj\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.AssemblyInfo.cs
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\obj\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.csproj.CoreCompileInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\bin\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.exe
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\bin\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.deps.json
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\bin\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.runtimeconfig.json
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\bin\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.runtimeconfig.dev.json
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\bin\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\bin\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\obj\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\obj\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.06.UnderstandEqualsMethod\obj\Debug\netcoreapp3.1\1.06.UnderstandEqualsMethod.genruntimeconfig.cache

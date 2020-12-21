@@ -1,0 +1,12 @@
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\bin\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.exe
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\bin\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.deps.json
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\bin\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.runtimeconfig.json
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\bin\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.runtimeconfig.dev.json
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\bin\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\bin\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\obj\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.AssemblyInfoInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\obj\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.AssemblyInfo.cs
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\obj\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.csproj.CoreCompileInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\obj\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\obj\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.05.AlwaysProvideToStringMethod\obj\Debug\netcoreapp3.1\1.05.AlwaysProvideToStringMethod.genruntimeconfig.cache

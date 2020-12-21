@@ -1,0 +1,12 @@
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\bin\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.exe
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\bin\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.deps.json
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\bin\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.runtimeconfig.json
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\bin\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.runtimeconfig.dev.json
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\bin\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\bin\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\obj\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.AssemblyInfoInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\obj\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.AssemblyInfo.cs
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\obj\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.csproj.CoreCompileInputs.cache
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\obj\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.dll
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\obj\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.pdb
+F:\testapplication\dotnet\EffectiveCsharp\1.08.QuerySyntaxInsteadOfLoopStructure\obj\Debug\netcoreapp3.1\1.08.QuerySyntaxInsteadOfLoopStructure.genruntimeconfig.cache

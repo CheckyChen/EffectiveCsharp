@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "1.04.UseConditionalAttributeReplaceSharpIf": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
